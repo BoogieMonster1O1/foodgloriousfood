@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "fgf:mushrooms"
+        },
+        {
+            "tag": "fgf:mushrooms"
+        },
+        {
+            "item": "minecraft:milk_bucket"
+        },
+        {
+            "tag": "fgf:mushrooms"
+        },
+        {
+            "tag": "fgf:mushrooms"
+        }
+    ],
+    "result": {
+        "item": "fgf:cheese_wheel",
+        "count": 1
+    }
+}

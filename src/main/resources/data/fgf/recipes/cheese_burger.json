@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "CBC",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "fgf:bread_slice"
+    },
+    "B": {
+      "item": "fgf:cooked_patty"
+    },
+    "C": {
+      "item": "fgf:cheese_slice"
+    }
+  },
+  "result": {
+    "item": "fgf:cheese_burger",
+    "count": 1
+  }
+}

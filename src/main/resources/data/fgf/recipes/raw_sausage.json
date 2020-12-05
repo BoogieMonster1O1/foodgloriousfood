@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "minecraft:iron_axe",
+      "remainder": { "item": "minecraft:iron_axe", "data": {"Damage": "$ i0.Damage + 1"} }
+    }
+  ],
+  "result": {
+    "item": "fgf:raw_sausage",
+    "count": 3
+  }
+}

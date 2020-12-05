@@ -1,0 +1,12 @@
+{
+  "type": "nbtcrafting:brewing",
+  "base": {
+    "item": "minecraft:milk_bucket"
+  },
+  "ingredient": {
+    "tag": "fgf:mushrooms"
+  },
+  "result": {
+    "item": "fgf:cheese_wheel"
+  }
+}

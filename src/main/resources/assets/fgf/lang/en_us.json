@@ -1,0 +1,21 @@
+{
+  "item.fgf.cheese_wheel": "Cheese Wheel",
+  "item.fgf.cheese_slice": "Cheese Slice",
+  "item.fgf.raw_bacon": "Raw Bacon",
+  "item.fgf.cooked_bacon": "Cooked Bacon",
+  "item.fgf.raw_sausage": "Raw Sausage",
+  "item.fgf.cooked_sausage": "Cooked Sausage",
+  "itemGroup.fgf.general": "Food, Glorious Food!",
+  "item.fgf.pear": "Pear",
+  "item.fgf.cherry": "Cherry",
+  "item.fgf.orange": "Orange",
+  "item.fgf.banana": "Banana",
+  "item.fgf.apple_pie": "Apple Pie",
+  "item.fgf.cherry_pie": "Cherry Pie",
+  "item.fgf.beef_mince": "Beef Mince",
+  "item.fgf.raw_patty": "Raw Beef Patty",
+  "item.fgf.cooked_patty": "Cooked Beef Patty",
+  "item.fgf.cheese_burger": "Cheeseburger",
+  "item.fgf.plain_burger": "Burger",
+  "item.fgf.bread_slice": "Bread Slice"
+}

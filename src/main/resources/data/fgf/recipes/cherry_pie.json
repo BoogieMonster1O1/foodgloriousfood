@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "fgf:cherry"
+        },
+        {
+            "item": "fgf:cherry"
+        },
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "result": {
+        "item": "fgf:cherry_pie",
+        "count": 1
+    }
+}

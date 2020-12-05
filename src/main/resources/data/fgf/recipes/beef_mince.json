@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "minecraft:iron_axe",
+      "remainder": { "item": "minecraft:iron_axe", "data": {"Damage": "$ i0.Damage + 1"} }
+    },
+    {
+      "item": "minecraft:beef"
+    }
+  ],
+  "result": {
+    "item": "fgf:beef_mince",
+    "count": 4
+  }
+}
